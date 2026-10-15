@@ -1,0 +1,6 @@
+# 仓库默认负责人
+* @SAKANA2336
+
+# 数据和治理配置必须由负责人审核
+/data/ @SAKANA2336
+/.github/ @SAKANA2336
